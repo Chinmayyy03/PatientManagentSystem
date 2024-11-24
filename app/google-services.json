@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983877584708",
+    "project_id": "login-page-d7521",
+    "storage_bucket": "login-page-d7521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983877584708:android:5ad058eaf9f29de502f911",
+        "android_client_info": {
+          "package_name": "com.example.patientmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983877584708-ftmptmgsrm6ifn6u0u5ec1nt7ao7k1br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdCXGLkTY88p7PEq8T4gFohDjTiPVh2JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983877584708-ftmptmgsrm6ifn6u0u5ec1nt7ao7k1br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
